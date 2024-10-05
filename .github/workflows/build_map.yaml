@@ -1,5 +1,7 @@
 ---
 name: build-cyprus-map
+permissions:
+  contents: write
 on:
   push:
     tags:
